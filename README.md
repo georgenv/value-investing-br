@@ -28,7 +28,11 @@ Para a eliminação de tickers repetidos, você pode optar por escolher aqueles 
 6. Por enquanto o projeto suporta apenas as tabelas geradas na busca avançada do Status Invest e Fundamentus.
 
 7. Para uma escolha mais segura, recomenda-se usar alguns filtros no momento da busca, por exemplo:
-
+```bash
+0.1 >= PL <= 13
+P/VP >= 0.1
+LIQ. DIÁRIA >= 871k
+```
 ## Pré-requisitos
 - Python 3.8+ **(obrigatório)**
 - Pip3 **(obrigatório)**
