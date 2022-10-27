@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "value-investing"
+name = "value-investing-br"
 version = "0.1.0"
 description = ""
 authors = ["georgenv <georgenv10@gmail.com>"]
